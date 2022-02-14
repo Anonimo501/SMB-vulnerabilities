@@ -27,3 +27,19 @@ ms10-061
 ms17-010 (Eternal Blue)
 
 
+![1](https://user-images.githubusercontent.com/67207446/153785389-2b9d1c09-7abb-4b49-b0db-772983e7698c.png)
+
+## Uso:
+
+git clone https://github.com/Anonimo501/SMB-vulnerabilities.git
+
+cd SMB-vulnerabilities
+
+chmod +x SMB-vulnerabilities.sh
+
+./SMB-vulnerabilities.sh
+
+## Referencia
+
+Nmap
+
