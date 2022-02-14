@@ -26,6 +26,7 @@ ms10-061
 
 ms17-010 (Eternal Blue)
 
+Con el script podremos analizar una sola IP ejemplo: 192.168.0.1 o una red completa con CIDR ejemplo: 192.68.0.0/24
 
 ![1](https://user-images.githubusercontent.com/67207446/153785389-2b9d1c09-7abb-4b49-b0db-772983e7698c.png)
 
